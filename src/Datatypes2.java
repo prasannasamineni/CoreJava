@@ -9,6 +9,7 @@ public class Datatypes2
         System.out.println(c);
         System.out.println(d);
         System.out.println(e);
+        System.out.println("hi");
 
     }
 
