@@ -5,8 +5,11 @@ public class Datatypes2
         int b = 4;
         int c = a * b;
         int d= a+b;
+        int e=c+d;
         System.out.println(c);
         System.out.println(d);
+        System.out.println(e);
+
     }
 
     }
