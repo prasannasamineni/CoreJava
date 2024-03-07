@@ -8,5 +8,7 @@ public class DataTypes {
         System.out.println(c);
         boolean d=true;
         System.out.println(d);
+        char ch='n';
+        System.out.println(ch);
     }
 }
